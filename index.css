@@ -1,18 +1,17 @@
 /* banner section */
 
-.banner-image {
-    width: 1320px;
-    height: 600px;
-    flex-shrink: 0;
-    display: inline;
-    width: 1320px;
-    height: 600px;
-    font-family: 'Courier New', Courier, monospace;
-    i
+.container img{
+    
 }
 
 .banner-title {
     text-align: center;
+    position: absolute;
+    top: 177px;
+    left: 530px;
+    right: 531px;
+    transform: translate(-50%, -50%);
+    color: #FFF;
 
 
 
@@ -24,7 +23,7 @@
     font-weight: 900;
     line-height: 95px;
     font-family: Merriweather;
-    padding-top: 16px;
+    position: absolute;
 }
 
 .banner {}
