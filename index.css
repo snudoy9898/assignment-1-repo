@@ -1,0 +1,64 @@
+/* banner section */
+
+.banner-image {
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    display: inline;
+    width: 1320px;
+    height: 600px;
+    font-family: 'Courier New', Courier, monospace;
+    i
+}
+
+.banner-title {
+    text-align: center;
+
+
+
+}
+
+.banner-greating {
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px;
+    font-family: Merriweather;
+    padding-top: 16px;
+}
+
+.banner {}
+
+.discoount {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.discoount-des {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.ca {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.container {
+    position: relative;
+    text-align: center;
+  }
